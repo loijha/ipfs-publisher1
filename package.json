@@ -1,0 +1,19 @@
+{
+  "name": "ipfs-publisherv1",
+  "version": "4.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs-http-client": "^60.0.1"
+  },
+  "repository": {
+    "url": "https://github.com/loijha/ipfs-publisher1.git",
+    "type": "git"
+  }
+}
